@@ -1,4 +1,4 @@
-# Face Expression Recognition(Letsgrowmore More Adavnced Level Task)
+# Face Expression Recognition(Letsgrowmore--More Adavnced Level Task)
 
 ## Problem Statement
 Develop a system that recognizes facial expressions of input image and recommends the genre of music based on the detected emotions. 
